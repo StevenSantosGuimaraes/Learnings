@@ -8,6 +8,7 @@
     --cor-hover: #272727;
 
     /* Fontes */
+    --tamanho-da-fonte:  24px;
     --fonte-primaria: 'Krona One', sans-serif;
     --font-secundaria: 'Montserrat', sans-serif;
 }

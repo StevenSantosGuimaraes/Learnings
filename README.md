@@ -1,2 +1,2 @@
-# Learnings
-Learnings
+# Learnings (PT-BR)
+Teste para aprendizado.
